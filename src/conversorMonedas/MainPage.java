@@ -69,10 +69,10 @@ public class MainPage {
 			if (amountString.matches("[a-zA-Z_]+")) {JOptionPane.showMessageDialog(null, "Valor no válido. Ingrese únicamente números.", "Error",JOptionPane.ERROR_MESSAGE);
 			} else {
 				Object exchange1 = (String) JOptionPane.showInputDialog(null, "Escoga la moneda que desea cambiar",
-						"ARS", JOptionPane.QUESTION_MESSAGE, icon, options,
+						null, JOptionPane.QUESTION_MESSAGE, icon, options,
 						options[0]);
 				Object exchange2 = (String) JOptionPane.showInputDialog(null, "Escoga un cambio de divisas",
-						"ARS", JOptionPane.QUESTION_MESSAGE, icon, options,
+						null, JOptionPane.QUESTION_MESSAGE, icon, options,
 						options[0]);
 
 				double amount = Double.parseDouble(amountString);
