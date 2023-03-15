@@ -18,9 +18,9 @@
 <h5>Programme launched</h5>
 <p dir="auto" ><img src="https://user-images.githubusercontent.com/77308512/225428489-1b597d71-fbf0-402c-80e2-4a2832639887.png" alt="Programme launched" width="30%"></img></p>
 <h5>Choice of currency to be converted</h5>
-<p dir="auto" ><img src="https://user-images.githubusercontent.com/77308512/225428520-9f9e17d3-ee9f-49d9-8eba-b398eb5c0d36.png" alt="Choice of currency to be converted" width="30%"></img></p>
+<p dir="auto" ><img src="https://user-images.githubusercontent.com/77308512/225438704-eec74a89-42f2-459f-b5a2-058fa6d5261f.png" alt="Choice of currency to be converted" width="30%"></img></p>
 <h5>Choice of currency to convert</h5>
-<p dir="auto" ><img src="https://user-images.githubusercontent.com/77308512/225428532-1a015c82-2fcb-4909-9273-fec2e28aba37.png" alt="Choice of currency to convert" width="30%"></img></p>
+<p dir="auto" ><img src="https://user-images.githubusercontent.com/77308512/225438717-6c2dbe7d-1c3e-4a9f-b63c-ab7b0412357c.png" alt="Choice of currency to convert" width="30%"></img></p>
 <h5>Converted result</h5>
 <p dir="auto" ><img src="https://user-images.githubusercontent.com/77308512/225428546-5f0b6d68-839f-4de2-8aa5-777b1593b03c.png" alt="Converted result" width="30%"></img></p>
 <h5>Continue to use the programme or close it</h5>
